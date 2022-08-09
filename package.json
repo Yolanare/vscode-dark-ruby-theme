@@ -1,0 +1,41 @@
+{
+  "name": "dark-ruby-theme",
+  "displayName": "Dark Ruby Theme",
+  "description": "Consistent dark theme with nice red accent color for VSCode.",
+  "publisher": "Yolanart",
+  "author": "Yolanare",
+  "homepage": "https://yolan.art",
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#1d1e1f",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Yolanare/vscode-dark-ruby-theme"
+  },
+  "license": "MIT",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "ruby",
+    "red",
+    "contrast"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Ruby Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Ruby Theme-color-theme.json"
+      }
+    ]
+  }
+}
