@@ -19,7 +19,11 @@ Every clickable element gets brighter on hover apart from the "Menu" types of el
 Have a look for yourself :
 
 !["Get Started" page](https://yolanare.github.io/vscode-dark-ruby-theme/showcase/showcase1.jpg)
+
 ![Buttons example](https://yolanare.github.io/vscode-dark-ruby-theme/showcase/showcase5.jpg)
+
 ![Command palette example](https://yolanare.github.io/vscode-dark-ruby-theme/showcase/showcase2.jpg)
+
 ![Menu example](https://yolanare.github.io/vscode-dark-ruby-theme/showcase/showcase3.jpg)
+
 ![Editor example](https://yolanare.github.io/vscode-dark-ruby-theme/showcase/showcase4.jpg)
