@@ -833,9 +833,9 @@
 		"breadcrumb.foreground": "#777777",
 		"breadcrumb.focusForeground": "#c8c8c8",
 
-		"activityBar.foreground": "#dcdcdc",
+		"activityBar.foreground": "#c0c0c0",
 		"activityBar.background": "#1D1E1F",
-		"activityBarBadge.foreground": "#dcdcdc",
+		"activityBarBadge.foreground": "#c0c0c0",
 		"activityBarBadge.background": "#b3203a",
 
 		"sideBar.foreground": "#727272",
