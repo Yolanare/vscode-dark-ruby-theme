@@ -778,7 +778,7 @@
 		"editor.inactiveSelectionBackground": "#19689633",
 		"editor.selectionHighlightBackground": "#e8e8e819",
 		"editor.foreground": "#c8c8c8",
-		"editor.background": "#212121",
+		"editor.background": "#1f1f1f",
 
 		"editorLink.activeForeground": "#ff5c7a",
 		"textLink.activeForeground": "#ff5c7a",
