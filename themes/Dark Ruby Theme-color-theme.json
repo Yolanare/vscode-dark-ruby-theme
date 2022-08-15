@@ -846,9 +846,9 @@
 			"list.hoverForeground": "#c8c8c8",
 			"list.hoverBackground": "#1C1C1D",
 		"list.activeSelectionForeground": "#dcdcdc",
-		"list.activeSelectionBackground": "#b3203a",
+		"list.activeSelectionBackground": "#1D1E1F",
 		"tree.indentGuidesStroke": "#80808070",
-		"list.dropBackground": "#b3203a80",
+		"list.dropBackground": "#55555520",
 
 		"list.highlightForeground": "#c8c8c8",
 		"list.focusBackground": "#1D1E1F",
@@ -879,7 +879,9 @@
 		"tab.border": "#00000000",
 		"editorGroupHeader.border": "#00000000",
 
-		"editorGroup.dropBackground": "#eeeeff12",
+		"editorGroup.dropBackground": "#55555520",
+		"editorGroup.dropIntoPromptBackground": "#1d1e1f",
+		"editorGroup.dropIntoPromptForeground": "#c0c0c0",
 
 		"scrollbarSlider.background": "#eeeeff12",
 		"scrollbarSlider.hoverBackground": "#eeeeff2a",
