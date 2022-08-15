@@ -694,7 +694,7 @@
     "statusBar.foreground": "#616161",
     "statusBar.debuggingBackground": "#291839",
     "statusBar.debuggingForeground": "#c8c8c8",
-    "statusBarItem.hoverBackground": "#ffffff08",
+    "statusBarItem.hoverBackground": "#ffffff0a",
     "statusBarItem.remoteForeground": "#000000",
     "input.background": "#222425",
     "input.foreground": "#c8c8c8",
