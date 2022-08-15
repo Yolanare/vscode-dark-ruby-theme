@@ -709,6 +709,11 @@
 	  "terminalCursor.foreground": "#888888",
 	  "terminalCursor.background": "#000000",
 	  "terminal.foreground": "#c0c0c0",
+	  "panel.background": "#181818",
+	  "panel.dropBorder": "#b3203a",
+	  "panelSection.dropBackground": "#55555520",
+	  "panelSection.border": "#1d1e1f",
+	  "panelSectionHeader.background": "#1d1e1f",
 
 	  "terminal.ansiWhite": "#c8c8c8",
 	  "terminal.ansiBrightWhite": "#dcdcdc",
@@ -729,8 +734,6 @@
 
 	  "editorSuggestWidget.border": "#e8e8e810",
 	  "editorMarkerNavigation.background": "#E8E8E805",
-	  "panel.border": "#00000060",
-	  "panel.background": "#1a1a1a",
 	  "panelTitle.inactiveForeground": "#E8E8E8",
 	  "panelTitle.activeForeground": "#e8e8e8",
 	  "diffEditor.insertedTextBackground": "#C3E88D15",
@@ -871,13 +874,14 @@
 		"editorWidget.foreground": "#999999",
 		"editorWidget.border": "#00000000",
 
+		"sideBar.border": "#1d1e1f",
 		"focusBorder": "#00000000",
 		"panelSectionHeader.border": "#00000000",
 		"titleBar.border": "#00000000",
 		"activityBar.border": "#00000000",
-		"sideBar.border": "#00000000",
 		"tab.border": "#00000000",
 		"editorGroupHeader.border": "#00000000",
+        "panel.border": "#00000000",
 
 		"editorGroup.dropBackground": "#55555520",
 		"editorGroup.dropIntoPromptBackground": "#1d1e1f",
