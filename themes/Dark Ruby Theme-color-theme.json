@@ -2,11 +2,6 @@
 	"name": "Dark Ruby Theme",
 	"tokenColors": [
 	  {
-		"settings": {
-		  "foreground": "#e8e8e8"
-		}
-	  },
-	  {
 		"name": "Comment",
 		"scope": [
 		  "comment",
@@ -661,6 +656,8 @@
 	  }
 	],
 	"colors": {
+      "foreground": "#c0c0c0",
+
 	  "editorRuler.foreground": "#424242",
 	  "scrollbar.shadow": "#21212100",
 	  "widget.shadow": "#00000030",
